@@ -1,0 +1,25 @@
+label {
+  font-size: 2em;
+  font-weight: bold;
+  padding-right: 12px;
+}
+
+input {
+  margin-bottom: 12px;
+  font-size: 2em;
+}
+
+p {
+  font-size: 2em;
+}
+
+p b {
+  color: #861c04;
+}
+
+button {
+  font-size: 2em;
+  padding: 6px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
